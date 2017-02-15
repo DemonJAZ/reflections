@@ -5,3 +5,15 @@ It creates a hidden folder named .git , and enables version-control in that dire
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area prepares the files to be committed , its like putting chocolates in a box and then sending it out.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+simply using git diff command.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+it can be useful to try experimental things without effecting the master branch and disturbing other users of the repoitory.
+
+How do the diagrams help you visualize the branch structure?
+
+it lets us know which commits are reachable from particular commit.
