@@ -17,3 +17,12 @@ it can be useful to try experimental things without effecting the master branch 
 How do the diagrams help you visualize the branch structure?
 
 it lets us know which commits are reachable from particular commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+This combines the addition to codes of multiple user branched to a single project. Diagram shows the the attachment of the branch
+to the master branch making the project development process more clear.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Manual merging can be discussed and taken care of with the person who has also caused changes 
